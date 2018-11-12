@@ -1,2 +1,1 @@
-# Aula-14---Econometria-
-Econometria Gerson
+# Aula-14
